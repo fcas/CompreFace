@@ -76,7 +76,7 @@ urllib3==2.0.4
 Werkzeug==1.0.1
 wheel==0.41.1
 wrapt==1.15.0
-zipp==3.16.2
+zipp==3.19.1
 
 # tests
 mock==5.1.0
